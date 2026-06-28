@@ -1,0 +1,111 @@
+product_id,product_name,category,brand,price,stock
+1,Prestige Cookware,Home & Kitchen,Prestige,5230.44,250
+2,Bajaj Dining Table,Home & Kitchen,Bajaj,19051.9,122
+3,Adidas T-Shirt,Fashion,Adidas,4217.5,383
+4,O'Reilly Python Programming,Books,O'Reilly,2240.39,93
+5,O'Reilly Machine Learning,Books,O'Reilly,2236.52,290
+6,Samsung Laptop,Electronics,Samsung,123438.88,151
+7,Prestige Bottle,Home & Kitchen,Prestige,784.5,288
+8,Bajaj Vacuum Cleaner,Home & Kitchen,Bajaj,532.39,97
+9,SG Yoga Mat,Sports,SG,6757.67,471
+10,Zara Jacket,Fashion,Zara,7562.39,425
+11,Nike Shoes,Fashion,Nike,5436.73,208
+12,Prestige Dining Table,Home & Kitchen,Prestige,6242.95,170
+13,Puma Jacket,Fashion,Puma,7625.85,364
+14,Levis T-Shirt,Fashion,Levis,3356.62,470
+15,Nike Jeans,Fashion,Nike,3796.91,398
+17,Adidas Shoes,Fashion,Adidas,425.35,487
+18,Yonex Dumbbells,Sports,Yonex,7176.16,478
+19,Sony Mouse,Electronics,Sony,92386.4,419
+20,Samsung Keyboard,Electronics,Samsung,134870.19,50
+22,Nike T-Shirt,Fashion,Nike,2070.3,366
+23,Nivia Cricket Bat,Sports,Nivia,6633.18,175
+24,Yonex Yoga Mat,Sports,Yonex,8318.44,244
+25,SG Football,Sports,SG,4295.09,157
+26,SG Cricket Bat,Sports,SG,3169.73,394
+27,Sony Printer,Electronics,Sony,71929.16,232
+28,Bajaj Mixer,Home & Kitchen,Bajaj,10119.91,108
+29,Yonex Football,Sports,Yonex,8163.03,337
+31,Yonex Cricket Bat,Sports,Yonex,7698.27,417
+32,Bajaj Cookware,Home & Kitchen,Bajaj,18130.42,195
+33,Apple Smart Watch,Electronics,Apple,20105.97,68
+34,Philips Dining Table,Home & Kitchen,Philips,2248.71,484
+36,Samsung Tablet,Electronics,Samsung,144804.33,78
+39,Samsung Mouse,Electronics,Samsung,44596.1,160
+41,McGraw Hill Python Programming,Books,McGraw Hill,2488.55,119
+42,O'Reilly SQL Essentials,Books,O'Reilly,2103.18,50
+43,Pearson Data Science,Books,Pearson,1982.92,369
+46,Pearson Python Programming,Books,Pearson,1082.64,403
+47,Philips Vacuum Cleaner,Home & Kitchen,Philips,16326.14,265
+48,HP Smartphone,Electronics,HP,100885.13,48
+50,Prestige Vacuum Cleaner,Home & Kitchen,Prestige,1962.94,313
+53,Samsung Monitor,Electronics,Samsung,39766.72,358
+55,Levis Shoes,Fashion,Levis,1633.27,424
+56,Pearson Machine Learning,Books,Pearson,542.0,246
+57,Puma T-Shirt,Fashion,Puma,2493.77,26
+58,Puma Shoes,Fashion,Puma,6122.36,364
+59,Adidas Jacket,Fashion,Adidas,1844.33,34
+63,HP Printer,Electronics,HP,80967.69,105
+65,SG Dumbbells,Sports,SG,13328.64,358
+67,Sony Smartphone,Electronics,Sony,10384.38,60
+68,Levis Jeans,Fashion,Levis,7849.25,358
+69,O'Reilly Data Science,Books,O'Reilly,1212.72,241
+70,HP Mouse,Electronics,HP,69610.99,117
+74,Prestige Mixer,Home & Kitchen,Prestige,13138.79,493
+75,Apple Monitor,Electronics,Apple,95364.86,263
+76,Adidas Jeans,Fashion,Adidas,7097.94,464
+77,Philips Cookware,Home & Kitchen,Philips,10405.44,421
+78,HP Keyboard,Electronics,HP,145841.92,207
+79,Sony Keyboard,Electronics,Sony,79743.69,182
+82,McGraw Hill Data Science,Books,McGraw Hill,2079.75,417
+86,Apple Mouse,Electronics,Apple,68088.99,310
+87,Dell Monitor,Electronics,Dell,49914.35,470
+91,Puma Jeans,Fashion,Puma,2378.31,376
+95,Lenovo Tablet,Electronics,Lenovo,16613.76,458
+101,Samsung Smart Watch,Electronics,Samsung,59178.18,412
+103,Philips Bottle,Home & Kitchen,Philips,12616.89,344
+105,Adidas Cap,Fashion,Adidas,3234.98,364
+110,Nivia Yoga Mat,Sports,Nivia,13634.35,145
+111,Dell Printer,Electronics,Dell,80943.94,237
+115,Dell Laptop,Electronics,Dell,55233.86,347
+116,Apple Laptop,Electronics,Apple,134846.1,444
+118,Lenovo Mouse,Electronics,Lenovo,49086.05,26
+123,Samsung Smartphone,Electronics,Samsung,134809.65,46
+125,Lenovo Monitor,Electronics,Lenovo,76672.43,233
+126,Philips Mixer,Home & Kitchen,Philips,4840.72,34
+134,McGraw Hill Machine Learning,Books,McGraw Hill,1847.89,473
+139,Nivia Dumbbells,Sports,Nivia,7382.47,388
+148,Lenovo Laptop,Electronics,Lenovo,8171.55,207
+150,Apple Keyboard,Electronics,Apple,125961.17,280
+153,Sony Monitor,Electronics,Sony,13899.18,349
+159,Apple Smartphone,Electronics,Apple,139137.03,483
+162,Zara Shoes,Fashion,Zara,3942.73,180
+171,Nike Cap,Fashion,Nike,1502.98,211
+173,McGraw Hill SQL Essentials,Books,McGraw Hill,307.23,339
+176,Nivia Football,Sports,Nivia,6987.98,70
+187,Pearson SQL Essentials,Books,Pearson,2462.4,329
+192,Nike Jacket,Fashion,Nike,7425.63,35
+201,Levis Cap,Fashion,Levis,1559.8,380
+203,Zara T-Shirt,Fashion,Zara,4525.86,34
+207,Bajaj Bottle,Home & Kitchen,Bajaj,19007.44,428
+212,Apple Tablet,Electronics,Apple,54509.32,23
+213,HP Tablet,Electronics,HP,37437.66,277
+217,HP Laptop,Electronics,HP,39628.35,50
+221,Samsung Printer,Electronics,Samsung,40271.97,189
+244,Dell Tablet,Electronics,Dell,147162.42,98
+246,Levis Jacket,Fashion,Levis,1037.71,42
+247,Lenovo Keyboard,Electronics,Lenovo,51014.24,51
+251,HP Smart Watch,Electronics,HP,24432.2,68
+261,Lenovo Printer,Electronics,Lenovo,53603.38,453
+274,Apple Printer,Electronics,Apple,92589.08,212
+292,Zara Cap,Fashion,Zara,7121.26,457
+309,Puma Cap,Fashion,Puma,2852.38,174
+314,Dell Smartphone,Electronics,Dell,111873.03,51
+329,Zara Jeans,Fashion,Zara,1582.42,416
+345,HP Monitor,Electronics,HP,147184.47,304
+385,Dell Keyboard,Electronics,Dell,148954.99,143
+399,Lenovo Smartphone,Electronics,Lenovo,36282.21,168
+428,Sony Smart Watch,Electronics,Sony,121678.24,421
+500,Sony Laptop,Electronics,Sony,139955.33,223
+586,Lenovo Smart Watch,Electronics,Lenovo,98317.49,177
+588,Dell Smart Watch,Electronics,Dell,16682.52,277

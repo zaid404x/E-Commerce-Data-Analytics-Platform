@@ -1,0 +1,26 @@
+==================================================
+DATA VALIDATION REPORT
+==================================================
+
+CUSTOMERS
+Duplicate Customer IDs : 0
+Duplicate Emails       : 0
+Invalid Emails         : 0
+
+PRODUCTS
+Duplicate Product IDs  : 0
+Negative Prices        : 0
+Missing Category       : 0
+
+ORDERS
+Duplicate Orders       : 0
+Missing Customers      : 22195
+
+ORDER ITEMS
+Invalid Orders         : 54
+Invalid Products       : 0
+Negative Quantity      : 0
+
+==================================================
+VALIDATION COMPLETED
+==================================================
